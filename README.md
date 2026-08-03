@@ -24,7 +24,7 @@ My interests include:
 - Open Source
 
 I'm always eager to learn new technologies and solve real-world problems through software.
-
+<img width="1902" height="929" alt="First img" src="https://github.com/user-attachments/assets/d9e622a9-8a22-4f41-b118-1800b162cebe" />
 ---
 
 ## ✨ Features
